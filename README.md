@@ -1,30 +1,30 @@
-# Hi there! <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="35" />
+# Hi there! I'm Doly <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="35" />
+
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=36BCF7&width=435&lines=I'm+Doly;Building+the+Web+with+Code;Anime+Enthusiast;Always+Learning..." alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=36BCF7&width=435&lines=Welcome+to+my+World;Web+Developer+in+the+making;Anime+Lover;Logic+%26+Aesthetics" alt="Typing SVG" />
 </p>
 
 <p align="center">
-![](https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNHJndnZueXp4eHh4eHh4eHh4eHh4eHh4eHh4eHh4eHh4eHh4JnB0PWFjdGl2ZV9mZWVkJmluZGV4PTAmZXhwPTE3MTI0MDQ4MDAmbm9uY2U9MA/3o7TKVUn7iM8FMEU24/giphy.gif)
+  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExOHJndnZueXp4eHh4eHh4eHh4eHh4eHh4eHh4eHh4eHh4eHh4JnB0PWFjdGl2ZV9mZWVkJmluZGV4PTAmZXhwPTE3MTI0MDQ4MDAmbm9uY2U9MA/3o7TKVUn7iM8FMEU24/giphy.gif" width="600" />
 </p>
 
 ### <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Developer.gif" width="45" /> About Me:
-- 🚀 I'm a **Web Developer** in the making, focusing on clean & professional code.
-- 💻 Daily Stack: **HTML5**, **CSS3**, **JavaScript (ES6+)**.
-- ⚛️ Currently exploring: **React.js** and modern web frameworks.
-- ⛩️ Huge fan of **Psychological Thrillers** & **Romance** Anime. 
-- ♟️ Always down for a game of **Chess** or a deep conversation.
-- ⚡ Fun fact: I believe a good website is like a good Manga—it needs a great flow.
+- 🚀 I'm **Doly**, a passionate developer building clean and professional websites.
+- 💻 Tech I use daily: **HTML5**, **CSS3**, and **JavaScript**.
+- ⛩️ Big fan of Psychological Thrillers like **Monster** and beautiful stories like **The Fragrant Flower Blooms with Dignity**.
+- 📚 Currently focused on mastering the fundamentals of Web Development.
+- ♟️ "The world isn't perfect, but it's there for us."
 
-### <img src="https://skillicons.dev/icons?i=html,css,js" /> Tech Stack:
+### <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Skill.gif" width="40" /> My Tech Stack:
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=html,css,js,react,git,vscode,github,tailwind,figma" />
+    <img src="https://skillicons.dev/icons?i=html,css,js,git,vscode,github" />
   </a>
 </p>
 
 ---
 
-### <img src='https://media1.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif?cid=ecf05e47x2g034i9pzwtzzsd3xgg2w9nr94t4tflbbgo3008&rid=giphy.gif' width='25' /> My Github Stats:
+### <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNXp6Znd6eHh4eHh4eHh4eHh4eHh4eHh4eHh4eHh4eHh4JnB0PWFjdGl2ZV9mZWVkJmluZGV4PTAmZXhwPTE3MTI0MDQ4MDAmbm9uY2U9MA/l41lTfO3L3F0T6Sre/giphy.gif" width="25" /> My Github Stats:
 <p align="center">
 <img src="https://github-readme-stats.vercel.app/api?username=abdelrahman&show_icons=true&theme=tokyonight" alt="Doly's Stats" />
 <br/>
@@ -33,8 +33,10 @@
 
 ---
 
-### <img alt="GIF" src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/hmm.gif" width="20" /> Current Vibe:
-> "The world isn't perfect. But it's there for us, doing the best it can... that's what makes it so damn beautiful." — *Roy Mustang (Fullmetal Alchemist)*
+### <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExM3Z6Znd6eHh4eHh4eHh4eHh4eHh4eHh4eHh4eHh4eHh4JnB0PWFjdGl2ZV9mZWVkJmluZGV4PTAmZXhwPTE3MTI0MDQ4MDAmbm9uY2U9MA/3o7TKMGpxS9vY69M9G/giphy.gif" width="25" /> Current Vibe:
+<p align="center">
+  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExOHJndnZueXp4eHh4eHh4eHh4eHh4eHh4eHh4eHh4eHh4eHh4JnB0PWFjdGl2ZV9mZWVkJmluZGV4PTAmZXhwPTE3MTI0MDQ4MDAmbm9uY2U9MA/vSk077z4zI-Ag/giphy.gif" width="400" />
+</p>
 
 ---
 
