@@ -5,7 +5,7 @@
 </p>
 
 <p align="center">
-  <img src="[https://media.giphy.com/media/](https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExMGlnYmxvYWthMGp6ZGs1Y3V6b2x1ZXUxeDhyd3Z1a3JoZXJuNnM0cCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/34xQdWQpPi1ZEIukdX/giphy.gif)" width="600" />
+  <img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExMGlnYmxvYWthMGp6ZGs1Y3V6b2x1ZXUxeDhyd3Z1a3JoZXJuNnM0cCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/34xQdWQpPi1ZEIukdX/giphy.gif" width="600" />
 </p>
 
 ### <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Developer.gif" width="45" /> About Me:
